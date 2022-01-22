@@ -4,7 +4,7 @@ def addition(a):
 
 # Subtraction fn implementation
 def subtraction(a):
-  pass
+  return x-y # on bug456 branch
 
 def multiplication(a):
   pass

@@ -7,7 +7,7 @@ def subtraction(a):
   return x-y # on bug456 branch
 
 def multiplication(a):
-  pass
+  return x*y # on local main
 
 def divide(a):
   return x/y # on remote main

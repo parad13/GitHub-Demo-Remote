@@ -1,7 +1,8 @@
 # Addition fn implemention
 def additon(a):
-  pass
+  return x+y
 
+# Subtraction fn implementation
 def subtraction(a):
   pass
 

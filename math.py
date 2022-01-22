@@ -1,5 +1,5 @@
 # Addition fn implemention
-def additon(a):
+def addition(a):
   return x+y
 
 # Subtraction fn implementation

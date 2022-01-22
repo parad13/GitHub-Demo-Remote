@@ -11,3 +11,6 @@ def multiplication(a):
 
 def divide(a):
   return x/y # on remote main
+
+def square(a): # on remote main branch
+  pass
